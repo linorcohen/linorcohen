@@ -3,7 +3,7 @@ I'm Linor, a Computer Science student From Isarel. Passionate about software dev
 Exploring the vast world of coding, I'm continuously learning and collaborating on projects that push the boundaries. 
 
 <p>
-  <a href="www.linkedin.com/in/linor-cohen-260677257">
+  <a href="https://www.linkedin.com/in/linor-cohen-260677257/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
 </p>
