@@ -1,5 +1,5 @@
 # 👋 Hello there! 
-I'm Linor, a Computer Science student From Isarel. Passionate about software development and always eager to tackle new challenges. 
+I'm Linor, a Computer Science student From Israel. Passionate about software development and always eager to tackle new challenges. 
 Exploring the vast world of coding, I'm continuously learning and collaborating on projects that push the boundaries. 
 
 <p>
