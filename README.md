@@ -36,22 +36,22 @@ Exploring the vast world of coding, I'm continuously learning and collaborating 
 <h2>Main Repositories</h2>
 <div align="center">
   <a href="https://github.com/linorcohen/Must-Movies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Must-Movies&theme=react" href="https://github.com/linorcohen/Must-Movies"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Must-Movies&theme=transparent&description_lines_count=1" href="https://github.com/linorcohen/Must-Movies"> 
   </a>
   <a href="https://github.com/linorcohen/Pepse-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Pepse-Game&theme=react" href="https://github.com/linorcohen/Pepse-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Pepse-Game&theme=transparent&description_lines_count=1" href="https://github.com/linorcohen/Pepse-Game">
   </a>
   <a href="https://github.com/linorcohen/Ascii-Art-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Ascii-Art-Converter&theme=react" href="https://github.com/linorcohen/Ascii-Art-Converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Ascii-Art-Converter&theme=transparent&description_lines_count=1" href="https://github.com/linorcohen/Ascii-Art-Converter">
   </a>
   <a href="https://github.com/linorcohen/Brick-Breaker-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Brick-Breaker-Game&theme=react" href="https://github.com/linorcohen/Brick-Breaker-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Brick-Breaker-Game&theme=transparent&description_lines_count=1" href="https://github.com/linorcohen/Brick-Breaker-Game">
   </a>
   <a href="https://github.com/linorcohen/Object-Oriented-Programming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Object-Oriented-Programming&theme=react" href="https://github.com/linorcohen/Object-Oriented-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Object-Oriented-Programming&theme=transparent&description_lines_count=1" href="https://github.com/linorcohen/Object-Oriented-Programming">
   </a>
   <a href="https://github.com/linorcohen/Intro2cs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Intro2cs&theme=react" href="https://github.com/linorcohen/Intro2cs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Intro2cs&theme=transparent&description_lines_count=1" href="https://github.com/linorcohen/Intro2cs">
   </a>
 </div>
 
