@@ -33,6 +33,14 @@ Exploring the vast world of coding, I'm continuously learning and collaborating 
     <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linorcohen&layout=compact&card_width=300&theme=react" /></p>
 </div>
 
+<h2>Main Repositories</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Must-Movies&theme=react" herf="https://github.com/linorcohen/Must-Movies"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Pepse-Game&theme=react" herf="https://github.com/linorcohen/Pepse-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Ascii-Art-Converter&theme=react" herf="https://github.com/linorcohen/Ascii-Art-Converter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Brick-Breaker-Game&theme=react" herf="https://github.com/linorcohen/Brick-Breaker-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Object-Oriented-Programming&theme=react" herf="https://github.com/linorcohen/Object-Oriented-Programming">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Intro2cs&theme=react" herf="https://github.com/linorcohen/Intro2cs">
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Must-Movies&theme=react)](https://github.com/linorcohen/Must-Movies)
 
