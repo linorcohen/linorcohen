@@ -33,3 +33,6 @@ Exploring the vast world of coding, I'm continuously learning and collaborating 
     <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linorcohen&layout=compact&card_width=300&theme=react" /></p>
 </div>
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linorcohen&repo=Must-Movies&theme=react)](https://github.com/linorcohen/Must-Movies)
+
