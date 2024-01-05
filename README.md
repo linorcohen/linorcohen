@@ -30,6 +30,6 @@ Exploring the vast world of coding, I'm continuously learning and collaborating 
 <h2>GitHub Stats</h2>
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api?username=linorcohen&amp;show_icons=true&rank_icon=github&theme=react" alt="GitHub Stats"> 
-    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linorcohen&layout=compact&card_width=400&theme=react" /></p>
+    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linorcohen&layout=compact&card_width=300&theme=react" /></p>
 </div>
 
