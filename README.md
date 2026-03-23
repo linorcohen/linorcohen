@@ -3,7 +3,7 @@
 **Software Engineer @ Meta (via Teamiff)**  
 **Specializing in FinTech, Privacy-Compliant Systems, and Scalable Full-Stack Architecture**
 
-I am a Software Engineer based in Tel Aviv with over 2 years of experience contributing to Meta’s FinTech division. My work focuses on building robust backend systems in **Hack (PHP)** and data-driven frontends using **React, GraphQL, and Relay**. I am passionate about engineering efficiency, privacy-first architecture, and mentoring emerging talent.
+I am a Software Engineer based in Tel Aviv with over 2 years of experience contributing to Meta’s FinTech division. My work focuses on building robust backend systems in **Hack (PHP), and JavaScript/TypeScript** and data-driven frontends using **React, GraphQL, and Relay**. I am passionate about engineering efficiency, privacy-first architecture, and mentoring emerging talent.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/linor-cohen-260677257/">
